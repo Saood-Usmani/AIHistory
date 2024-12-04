@@ -27,7 +27,7 @@ function App() {
         temperature: 0
       }, {
         headers: {
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
           'Content-Type': 'application/json'
         }
       });
